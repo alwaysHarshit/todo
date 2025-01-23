@@ -1,0 +1,16 @@
+{
+  "name": "todo-application",
+  "version": "1.0.0",
+  "description": "this is todo app",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "harshit barua",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
